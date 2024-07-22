@@ -1,18 +1,10 @@
-def add(a,b):
-    return a+b
-def sub(a,b):
-    return a-b
-def mul(a,b):
-    return a*b
-def div(a,b):
-    return a/b
-option=int(input("enter the option:"))
 print('''
        1.Addition
        2.Sutraction
        3.Multiplication
        4.Division
        ''')
+option=int(input("enter the option:"))
 a=int(input("enter the first value:"))
 b=int(input("enter the second value:"))
 if option==1:
