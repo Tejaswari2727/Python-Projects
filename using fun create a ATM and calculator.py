@@ -1,11 +1,3 @@
-def addition (a,b):
-    print("a+b=",a+b)
-def substraction (a,b):
-    print("a-b=",a-b)
-def multiplication (a,b):
-    print("a*b=",a*b)
-def division (a,b):
-    print("a/b=",a/b)
 print("1.Addition")
 print("2.Substraction")
 print("3.Multiplication")
